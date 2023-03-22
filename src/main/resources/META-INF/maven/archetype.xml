@@ -1,0 +1,6 @@
+<archetype>
+  <id>calculadora</id>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
